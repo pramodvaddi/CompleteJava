@@ -1,6 +1,4 @@
-package coreJava.advanced;
-
-import coreJava.advanced.interfaces.Laptop;
+package coreJava.advanced.interfaces;
 
 public abstract class AbstractClass implements Laptop {
 

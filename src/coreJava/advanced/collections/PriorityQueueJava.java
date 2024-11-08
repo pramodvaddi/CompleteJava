@@ -4,7 +4,7 @@ import java.util.Comparator;
 import java.util.PriorityQueue;
 import java.util.Queue;
 
-public class QueueJava {
+public class PriorityQueueJava {
     /*
         To store multiple elements.
         ArrayList, LinkedList, Stack follow LIFO.
@@ -16,6 +16,34 @@ public class QueueJava {
         Head will point to the highest priority, rest will be jumbles.
         Lowest integer will be the highest priority. Head will be the lowest integer.
         To make the highest number as head (priority), use comparator.
+
+                                             Important points to remember
+          1. What is default capacity?
+          A. 11
+
+          2. What is Initial capacity?
+          A. 11
+
+          3. Does it allow duplicate elements?
+          A. Yes
+
+          4. Does it allow null values?
+          A. No
+
+          5. Does it maintain insertion order? (Always, insertion order is opposite of sorted order).
+          A. No
+
+          6. Does it maintain sorted order?
+          A. No
+
+          7. Does it offer random access of elements?
+          A. No
+
+          8. Is it Synchronised?. (When multiple threads try to access, Vector will not allow, it will synchronise one by one.
+          A. No
+
+          9. What is it good at?
+          A. FIFO Operations.
 
     */
 
@@ -51,6 +79,7 @@ public class QueueJava {
         pqOne.offer(1);
         pqOne.offer(2);
         pqOne.offer(4);
+        pqOne.offer(9);
         pqOne.offer(9);
         System.out.println(pqOne);
         while(!pqOne.isEmpty()){

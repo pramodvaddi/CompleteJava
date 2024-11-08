@@ -1,4 +1,4 @@
-package coreJava.advanced;
+package coreJava.intermediate;
 
 import java.util.Random;
 

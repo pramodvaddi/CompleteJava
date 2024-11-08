@@ -1,6 +1,6 @@
 package coreJava.advanced.collections;
 
-public class Collections {
+public class CollectionsJava {
 
     /*
         Collections: Collections is a framework provided by Java.
@@ -31,6 +31,20 @@ public class Collections {
                        - LinkedHashMap
                        - TreeMap
                     Collections Class
+
+
+                                Hierarchy of List interface
+
+                                         Iterable
+                                        (extends)
+                                     Collection<Interface>
+                         (extends)                         (extends)
+                        List<Interface>                      Queue
+                         (implements)
+              ArrayList    Vector  LinkedList (implements)---Deque
+                          (extends)
+                            Stack
+
 
 
 

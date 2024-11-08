@@ -1,4 +1,4 @@
-package com.part.basics;
+package coreJava.basics;
 
 public class PrintStatements {
     // Types of print statements.
@@ -20,5 +20,9 @@ public class PrintStatements {
         //s or S	String
         //d	Decimal integer
         System.out.printf("Hello, the age is %s", 98);
+
+        // Prinintnig error message
+        System.out.println();
+        System.err.println("This is an error message");
     }
 }

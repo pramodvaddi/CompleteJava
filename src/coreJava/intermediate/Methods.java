@@ -1,7 +1,16 @@
-package com.part.intermediate;
+package coreJava.intermediate;
 
 public class Methods {
+    // Like variables, we have two types of methods.
+    // Instance method
+    // Static method
 
+    // Instance Method.
+    public void message(){
+        System.out.println("How are you?");
+    }
+
+    // Static Method.
     static void greet(){
         System.out.println("Hello, welcome to International Bank");
     }
@@ -19,12 +28,14 @@ public class Methods {
         return balanceAfterDeposit;
     }
 
+
+
     public static void main(String[] args) {
         greet();
         totalBalance();
-        System.out.println("Your balance after withdrawl is "+withdraw(20));
+        System.out.println("Your balance after withdrawal is " + withdraw(20));
         System.out.println("Your balance after deposit is " + deposit(30));
 
-
+        new Methods().message();
     }
 }

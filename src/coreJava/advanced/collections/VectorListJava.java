@@ -3,9 +3,21 @@ package coreJava.advanced.collections;
 import java.util.Arrays;
 import java.util.Vector;
 
-public class  VectorLst {
+public class VectorListJava {
 
     /*
+
+                                Hierarchy of List interface
+
+                                         Iterable
+                                        (extends)
+                                     Collection<Interface>
+                         (extends)                         (extends)
+                        List<Interface>                      Queue
+                         (implements)
+              ArrayList    Vector  LinkedList (implements)---Deque
+                          (extends)
+                            Stack
 
         In Java, collections will be coming from java.util package.
 

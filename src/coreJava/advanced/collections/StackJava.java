@@ -2,11 +2,25 @@ package coreJava.advanced.collections;
 
 import java.util.Stack;
 
-public class StackC {
+public class StackJava {
     // We have to imagine stack vertically. Just like stack of books.
     // Bottom index will be 0.
 
     /*
+
+
+                                 Hierarchy of List interface
+
+                                         Iterable
+                                        (extends)
+                                     Collection<Interface>
+                         (extends)                         (extends)
+                        List<Interface>                      Queue
+                         (implements)
+              ArrayList    Vector  LinkedList (implements) ---Deque
+                          (extends)
+                            Stack
+
         Stack: A Stack is a class that implementing list interface and extends Vector class which representing LIFO.
 
         There are two principle in Data Structures.

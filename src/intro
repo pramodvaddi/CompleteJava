@@ -1,0 +1,62 @@
+Q) What is programming?
+A) Programming is a way to instruct a machine to perform various tasks in specified manner.
+
+Q) Why programming is important?
+A) Computer programming is important today because so much of our world is automated. Humans need to able to control the interaction between machine and people. Computers can be able to do things efficiently and accurately.
+
+Q) What is Programming Paradigms?
+A) Programming paradigm is a an approach to solve any problem using any programming language.
+
+Q) How many types of Programming Paradigms are there?.
+A) There are two types of programming paradigms are there. Namely, Imperative Programming and Declarative Programming.
+
+Q) What is Imperative programming?
+A) In imperative programming, we mainly focus on how to do. Ex: Procedural, Structural, Objective Oriented programming languages.
+
+Q) What is Declarative programming?
+A) In declarative programming, we mainly focus on what to do. Ex: Functional, Logical, Database programming languages.
+
+Q) What is Java?
+A) Java is an Object Oriented Programming language. Java follows imperative programming paradigm.
+
+Q) Who invented Java? When it was first launched?
+A) Java was invented by Sir James Gosling in the year June 1991. Java first version was officially released in 1996 by Sun Microsystems, currently maintained by Oracle Corporation.
+
+Q) What is WORA?
+A) Its a Java slogan. Write Once Run Anywhere.
+
+Q) What are the advantages of Java?
+A) Java is simple, Object oriented, Platform independent, Robust, Distributed, Secure.
+
+Q) What are the disadvantages of Java?
+A) We can create very good applications, but Java is not good with UI.
+
+Q) What are the different technologies in Java?
+A) Java Standard Edition (JSE), Java Enterprise Edition (J2EE), Java Micro Edition (JME).
+
+Q) What is Java SE?
+A) Java SE stands for Java Platform Standard Edition, this is used to build server and database independent applications also know as Stand alone applications. Ex: Calculator.
+
+Q) What is Java EE?
+A) Java EE stands for Java Platform Enterprise Edition, this is used to build server and database interactive web applications. Ex: Banking and E-Commerce applications.
+
+Q) What is Java ME?
+A) Java ME stands for Java Platform  Micro Edition, this is used to build mobile/ micro applications. Ex: ATM machine, Coffee machine.
+
+Q) What is Core Java?
+A) Core Java is nothing but actual Java programming. And is widely used in any king of application development. Also used in Software testing field.
+
+Q) What is the difference between compilation and execution?
+A) A Java source file is human understandable, we need to compile the source file which will generate class file with class name present inside the source file. This class file is a byte code and can be understood by the machine. To Execute the code, we use the class file name as the command.
+
+Q) What is a Package?
+A) Package is a container which can segregate files in a container. We cannot have two files with same name in a same folder, we can create package to solve this.
+
+Q) What are the members of a class?
+A) Variables and Methods are called as Members of a class.
+
+Q) How to create an object for a class?
+A) In Java, new keyword will create an object for a class. Ex: If the class name is Animal, then creating an object for this class will be new Animal();. We have to store this in a variable, this variable will hold the object inside it. Animal dog = new Animal();
+
+Q) How many types of variables are there?
+A) Instance Variables (Non-Static Fields), Class Variables (Static Fields), Local Variables, Parameters.

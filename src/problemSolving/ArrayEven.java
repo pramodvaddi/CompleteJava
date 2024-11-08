@@ -2,7 +2,7 @@ package problemSolving;
 
 import java.util.Scanner;
 
-public class EvenArray {
+public class ArrayEven {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

@@ -1,4 +1,4 @@
-package coreJava.advanced.collections.arraylist_vector;
+package coreJava.advanced.collections;
 
 import java.util.Vector;
 
@@ -16,6 +16,8 @@ public class GenericsJava {
             Vector is a class, so we have to use <Integer> wrapper class.
 
             In Generics, we have to use only wrapper classes.
+            Generics are used for type safety.
+            When we don't use generics, values will be stored as objects.
     */
     public static void main(String[] args) {
 

@@ -1,6 +1,4 @@
-package coreJava.advanced;
-
-import static coreJava.advanced.A.add;
+package coreJava.advanced.objectOrientedProgramming;
 
 public class ObjectOrientedProgramming {
     int mobileNumber = 1234;

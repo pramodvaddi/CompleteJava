@@ -3,7 +3,7 @@ package coreJava.advanced.collections;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class ArrayLst {
+public class ArrayListJava {
 
     /*
         Both ArrayList and VectorList are similar to Array.
@@ -12,6 +12,19 @@ public class ArrayLst {
         VectorList: This will increase/increment by 100%. Ex: 10,20,40,80,....
 
         In Vector, we have size() and capacity(). But in ArrayList, we have only size().
+
+                               Hierarchy of List interface
+
+                                         Iterable
+                                        (extends)
+                                     Collection<Interface>
+                         (extends)                         (extends)
+                        List<Interface>                      Queue
+                         (implements)
+              ArrayList    Vector  LinkedList (implements)--- Deque
+                          (extends)
+                            Stack
+
 
                                     Major Operations
 
