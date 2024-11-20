@@ -35,7 +35,7 @@ public interface Laptop {
 
     public void paste();
 
-    // Public default void securuty
+    // Public default void security
     default void security() {
         System.out.println("Impliment");
     }
