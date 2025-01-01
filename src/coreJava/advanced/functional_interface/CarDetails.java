@@ -11,7 +11,7 @@ import java.lang.FunctionalInterface;
 
     After java 1.8, default, private, static methods can have implementation.
 
-    In Functional interface, only one abstract method and unlimited Private Default Static methods can be made.
+    In Functional interface, only one abstract method and unlimited Private, Default, Static methods can be made.
 
 */
 @FunctionalInterface
