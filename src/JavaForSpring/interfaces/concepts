@@ -1,0 +1,16 @@
+Interface is equally important as class.
+
+Enterprise applications use interfaces.
+
+Automation testing also requires usage of interfaces.
+
+Interface is a blue print of a class.
+
+Interface is like "What to do". There will be no implementation. But after Java 7, we can use implemented methods from Java 8. But these methods must be default or static.
+
+Abstract Methods: Un-implemented methods.
+
+Access modifiers and keywords used in interface are public, private, static and default.
+
+
+

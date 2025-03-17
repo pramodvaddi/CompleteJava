@@ -1,0 +1,5 @@
+Encapsulation is a mechanism of wrapping data (variables) and code (methods) in to a single unit.
+
+It is an ability of an object hiding data (variables) and code (methods) from the rest of the world.
+
+We use getters and setters.

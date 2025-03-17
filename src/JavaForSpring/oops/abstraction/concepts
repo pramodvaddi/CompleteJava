@@ -1,0 +1,4 @@
+Abstraction is a process of hiding implementation details and showing only functionality to the user.
+We can achieve 100% abstraction through Interfaces. But this is before Java 8.
+Now, this depends on the user who designs the interface. If the user provides any implementation, there will be the loss of abstraction.
+

@@ -1,0 +1,30 @@
+OOP is a programming paradigm based on objects.
+
+Programming paradigms available in the market are as follows
+
+Imperative Programming (How to do)
+        Procedural Programming
+        Structural Programming
+        Object Oriented Programming System (OOPs)
+
+Declarative Programming (What to do)
+        Functional Programming
+        Logic Programming
+        Database Programming
+
+Principles of OOPs
+    1. Inheritance
+    2. Encapsulation
+    3. Polymorphism
+    4. Abstraction
+
+Difference between Object Oriented and Object Based
+    Java is a Object Oriented language as we use inheritance to access the members of other class. This is not possible in Object based programming language. VB (Visual Basic) is an Object based.
+
+
+Java is not 100% Object Oriented Programming language as it supports primitive data types and static key word.
+To make Java 100% OOP language, we use wrapper classes.
+
+
+Simula is the first Object Oriented Programming Language
+SmallTalk is the first 100% OOP language.

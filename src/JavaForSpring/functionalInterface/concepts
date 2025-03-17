@@ -1,0 +1,11 @@
+Functional Interface: Only one abstract method and unlimited non-abstract methods
+
+Introduced in Java 1.8
+
+SAM: Single Abstract Method
+
+Introduces to work with lambda expressions and functional programming
+
+Along with one abstract method, we can use default, private and static methods with implementation.
+
+In built functional interfaces are present in java.util.function

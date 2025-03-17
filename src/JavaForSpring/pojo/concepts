@@ -1,0 +1,22 @@
+POJO: Plain Old Java Object
+
+Mandatory Rules:
+1. It must be public
+2. It shouldn't implement any interfaces
+3. It should not extend any class.
+4. It should not have any annotations specified.
+5. No main method.
+
+Optional Rules:
+1. It is recommended to make Properties(Instance variables) as private for security.
+2. It can have getters and setters in order to access the properties.
+
+Java Bean: An extended version of POJO. Also known as Serializable Pojo class.
+
+Mandatory Rules:
+1. It should implement serializable interface.
+2. It should have no-args constructor.
+3. All the properties (instance variables) must be private.
+4. It should have getters and setters (public) in order to access the properties.
+
+When we want to send something via network, we use Java bean. Serializable interface helps to connect application layer with the data base via network.

@@ -1,0 +1,9 @@
+Collections is a framework provided by Java.
+
+This framework provides many interfaces and their implemented classes in order to store group of objects(elements) in a single entity.
+
+To overcome the disadvantages of an Array, collections is introduced. Collections is far advanced.
+
+
+Collections is a framework, whilst, collection is an interface in Collection framework.
+

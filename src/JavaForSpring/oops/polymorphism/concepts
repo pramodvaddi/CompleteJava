@@ -1,0 +1,17 @@
+Polymorphism: Greek word. Multiple forms.
+
+It is an ability of an object to take many forms
+
+Two types of Polymorphism.
+    Compile time Polymorphism
+    Runtime Polymorphism
+
+
+Compile time polymorphism is a type of polymorphism which can be achieved at Java compilation time.
+Compile time polymorphism is also known as Static polymorphism or early binding.
+Compile time polymorphism is achieved using Method Overloading.
+
+
+Runtime Poly can be achieved at runtime or execution time
+Also known as Dynamic poly or Dynamic method dispatch.
+This can be achieved using Method Overriding concept

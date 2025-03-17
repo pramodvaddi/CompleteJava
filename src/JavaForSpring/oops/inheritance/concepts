@@ -1,0 +1,21 @@
+Inheritance is a mechanism in which one class acquires all the data and methods of another class by specific relationship.
+
+Inheritance is used for code re-usability.
+
+Parent class is referred to Super class, whilst, Child class is referred as Sub Class.
+
+class Developer extends Guest {
+
+    The class to the right side of guest is Super/Parent class
+    The class to the left side of guest is Sub/Child class
+
+}
+
+Multiple inheritance is only possible with Interfaces.
+
+In Interface, we wont be having any implementation for the methods.
+
+In Interface, we can extends multiple classes and interfaces.
+
+
+Super keyword is used to call parent class properties in child class.
